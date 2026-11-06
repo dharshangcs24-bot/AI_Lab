@@ -1,3 +1,4 @@
+print("Name: Dharshan G Nayak\nUSN:1WA24CS107")
 # -*- coding: utf-8 -*-
 """AI Lab-6(KB)
 
