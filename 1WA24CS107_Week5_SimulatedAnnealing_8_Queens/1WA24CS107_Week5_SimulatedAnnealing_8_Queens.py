@@ -1,4 +1,4 @@
-print("Name: Bisista Shrestha\nUSN: 1WA24CS086")
+print("Name: Dharshan G Nayak\nUSN: 1WA24CS107")
 import random
 import math
 
