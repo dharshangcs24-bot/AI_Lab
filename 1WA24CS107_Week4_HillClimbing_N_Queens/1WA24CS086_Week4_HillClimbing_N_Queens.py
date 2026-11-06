@@ -1,4 +1,4 @@
-print("Name: Bisista Shrestha\nUSN:1WA24CS086")
+print("Name: Dharshan G Nayak\nUSN:1WA24CS107")
 def cost(state):
     conflicts = 0
     n = len(state)
